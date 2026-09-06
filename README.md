@@ -12,16 +12,17 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a></div>---
 
-🧠 "whoami"
+🧑‍💻 "about_me"
 
-class Shubham:
-
-    role = "Mechatronics Engineer"
-    interests = ["AI", "Robotics", "Space", "Medical Tech"]
-    weapons = ["Python", "C", "JavaScript", "Electronics"]
-
-    def build(self):
-        return "idea → prototype → break → fix → 🚀"
+┌─[ SHUBHAM@GITHUB ]─[ ~ ]
+│
+├─ 🎓 Mechatronics Engineering Student
+├─ 🤖 Exploring AI & Robotics
+├─ 🚀 Curious about Space & Rocket Technology
+├─ 🧬 Interested in Medical Engineering
+├─ 💻 Building software + hardware projects
+│
+└─ ⚡ Status: Turning ideas into reality...
 
 ---
 
