@@ -55,3 +55,4 @@ A car-focused interactive web project.
 ⚡ Build something. Break something. Learn something. Repeat.
 
 </div>
+![Animation](./readme_asset.gif)
