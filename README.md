@@ -11,64 +11,73 @@
 <a href="https://github.com/shubhamkerure07">
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/shubham-kerure-23350938b">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-F1F5F9?style=for-the-badge&logo=gmail&logoColor=0EA5E9" alt="Email" />
+<a href="mailto:shubhamkerure13@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=shubhamkerure07&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile views" />
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F1F5F9,100:FFFFFF&height=4&width=800" width="80%" />
+
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
-```bash
-┌─[ shubham@github ]─[ ~ ]
-│
-│  🎓  Mechatronics Engineering Student
-│  🤖  Exploring AI & Robotics
-│  🚀  Curious about Space & Rocket Technology
-│  💻  Building Software + Hardware Projects
-│  🚗  Into Cars, Engines & Gaming
-│
-└─[ status ]─> Turning ideas into working systems...
-```
+<br/>
 
-I sit between **mechanical, electronics and code** — which is exactly why mechatronics fits. Most of what I build starts as a small idea, becomes a messy prototype, and slowly turns into something that actually runs.
+<div align="center">
 
----
+🎓&nbsp; **Mechatronics Engineering Student**
+
+🤖&nbsp; Exploring **AI & Robotics**
+
+🚀&nbsp; Curious about **Space & Rocket Technology**
+
+💻&nbsp; Building **Software + Hardware** Projects
+
+🚗&nbsp; Into **Cars, Engines & Gaming**
+
+<br/>
+
+I sit between mechanical, electronics and code — which is exactly why mechatronics fits.
+Most of what I build starts as a small idea, becomes a messy prototype, and slowly turns into something that actually runs.
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFFFFF,100:F1F5F9&height=4&width=800" width="80%" />
+
+<br/>
 
 ## 🚗 Featured Project
 
 <div align="center">
 
-<a href="https://github.com/shubhamkerure07/REV-THE-BEAST-">
-  <img src="https://opengraph.githubassets.com/1/shubhamkerure07/REV-THE-BEAST-" width="70%" alt="REV-THE-BEAST preview" />
-</a>
+### 🏁 REV-THE-BEAST
+**Experience the machine. Feel the power.**
 
-<!--
-  TIP: to show your project in motion, screen-record REV-THE-BEAST,
-  export it as demo.gif, commit it to this profile repo, then replace
-  the image above with:  <img src="./demo.gif" width="70%" alt="REV-THE-BEAST demo" />
--->
+<br/>
+
+<a href="https://github.com/shubhamkerure07/REV-THE-BEAST-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamkerure07&repo=REV-THE-BEAST-&theme=transparent&title_color=0EA5E9&icon_color=0EA5E9&text_color=64748B&hide_border=true&border_radius=12" alt="REV-THE-BEAST repo card" />
+</a>
 
 </div>
 
-### 🏁 REV-THE-BEAST
-
-> **Experience the machine. Feel the power.**
-
 An interactive automotive web experience for people who love cars, engines and engineering. Instead of reading a flat spec sheet, you explore a selection of performance cars, dig into engine and performance data, and actually **hear** them.
 
-- 🔊 Engine sound playback
-- ⚙️ Engine & performance specifications
-- 📊 Horsepower, torque and vehicle data
-- ✨ Animated, responsive interface
-- 🎨 Automotive-inspired UI
+- 🔊&nbsp; Engine sound playback
+- ⚙️&nbsp; Engine & performance specifications
+- 📊&nbsp; Horsepower, torque and vehicle data
+- ✨&nbsp; Animated, responsive interface
 
 <div align="center">
 
@@ -78,9 +87,15 @@ An interactive automotive web experience for people who love cars, engines and e
 
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F1F5F9,100:FFFFFF&height=4&width=800" width="80%" />
+
+<br/>
 
 ## 🤖 What I Do
+
+<div align="center">
 
 | | Focus | What that looks like |
 |:--:|:--|:--|
@@ -90,40 +105,23 @@ An interactive automotive web experience for people who love cars, engines and e
 | `04` | **Mechatronics** | Where the mechanical, electronic and code sides meet |
 | `05` | **Cars & Gaming** | Engines, performance and interactive experiences |
 
----
+</div>
 
-## 🛠️ Tech Stack
+<br/>
+
+## 🏆 Trophy Case
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0EA5E9?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=38BDF8" alt="C" />
-<img src="https://img.shields.io/badge/JavaScript-38BDF8?style=for-the-badge&logo=javascript&logoColor=0F172A" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-0EA5E9?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<br/>
-<img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=38BDF8" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-38BDF8?style=for-the-badge&logo=css3&logoColor=0F172A" alt="CSS3" />
-<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=7DD3FC" alt="React" />
-<img src="https://img.shields.io/badge/Vite-0EA5E9?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<br/>
-<img src="https://img.shields.io/badge/Git-F1F5F9?style=for-the-badge&logo=git&logoColor=0EA5E9" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-38BDF8?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://github-profile-trophy.vercel.app/?username=shubhamkerure07&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
----
+<br/>
 
-## 🚀 Projects
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFFFFF,100:F1F5F9&height=4&width=800" width="80%" />
 
-| Project | What it is |
-|:--|:--|
-| [**🚗 REV-THE-BEAST**](https://github.com/shubhamkerure07/REV-THE-BEAST-) | Interactive automotive web experience — car specs, performance data and engine sound |
-| **🤖 AI & Robotics** | Ongoing learning projects around intelligent and autonomous systems |
-| **💻 Software** | Web and application builds, mostly self-directed |
-| **⚙️ Hardware** | Electronics and mechatronics experiments |
-
----
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -138,7 +136,7 @@ An interactive automotive web experience for people who love cars, engines and e
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
