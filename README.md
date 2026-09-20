@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:7DD3FC,100:FFFFFF&height=190&section=header&text=SHUBHAM%20KERURE&fontSize=48&fontColor=0F172A&animation=fadeIn&fontAlignY=35&desc=AI%20%20%7C%20%20ROBOTICS%20%20%7C%20%20ENGINEERING&descAlignY=55&descSize=18" width="100%" />
 
 <a href="https://github.com/shubhamkerure07">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Mechatronics+Engineering+Student;Building+Software+%2B+Hardware;Exploring+AI+%26+Robotics;Cars+%7C+Gaming+%7C+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Mechatronics+Engineering+Student;Building+Software+%2B+Hardware;Exploring+AI+%26+Robotics;Automotive+%7C+Cars+%7C+Technology" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,24 +30,19 @@
 
 ## 👨‍💻 About Me
 
-<br/>
-
 <div align="center">
 
-🎓&nbsp; **Mechatronics Engineering Student**
+⚙️&nbsp; **Mechatronics Engineering Student** @ Mangalore Institute of Technology & Engineering (MITE)
 
-🤖&nbsp; Exploring **AI & Robotics**
+🤖&nbsp; Exploring **AI, Machine Learning & Robotics**
 
-🚀&nbsp; Curious about **Space & Rocket Technology**
+🚗&nbsp; Passionate about **Automotive Systems, Engines & Vehicle Dynamics**
 
-💻&nbsp; Building **Software + Hardware** Projects
-
-🚗&nbsp; Into **Cars, Engines & Gaming**
+🛠️&nbsp; Building **Full-Stack Applications & Embedded Systems**
 
 <br/>
 
-I sit between mechanical, electronics and code — which is exactly why mechatronics fits.
-Most of what I build starts as a small idea, becomes a messy prototype, and slowly turns into something that actually runs.
+*I work at the intersection of mechanical design, electronic control, and modern software — combining engineering with code to build real-world tools.*
 
 </div>
 
@@ -57,12 +52,43 @@ Most of what I build starts as a small idea, becomes a messy prototype, and slow
 
 <br/>
 
-## 🚗 Featured Project
+## 🌟 Featured Projects
 
 <div align="center">
 
-### 🏁 REV-THE-BEAST
-**Experience the machine. Feel the power.**
+### 🔧 MechMate — AI Car Problem Solver
+**Smart Automotive AI Mechanic & Diagnostics Assistant**
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/🚀_LIVE_APP-mechmate--sigma.vercel.app-00DC82?style=for-the-badge&logo=vercel&logoColor=white)](https://mechmate-sigma.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-mechmate-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamkerure07/mechmate)
+
+</div>
+
+MechMate empowers everyday drivers to diagnose car problems by simply describing symptoms in plain English. Powered by Google Gemini AI and a domain-specific automotive knowledge base.
+
+- 🔍 **Intelligent Diagnostic Breakdown** — Pinpoints probable causes from complex mechanical symptoms.
+- ⚠️ **Severity Rating** — Distinguishes between critical safety risks and minor maintenance.
+- 💰 **Localized Repair Estimator** — Realistic pricing estimates in ₹ (INR) for parts and labor.
+- 💬 **Cockpit Dark Interface** — Fast, responsive React & TypeScript frontend.
+
+<div align="center">
+
+<a href="https://mechmate-sigma.vercel.app">
+  <img src="https://img.shields.io/badge/🌐%20TRY%20MECHMATE%20ONLINE-00DC82?style=for-the-badge&logoColor=white" alt="Try MechMate" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🏎️ REV-THE-BEAST
+**Experience the Machine. Feel the Power.**
 
 <br/>
 
@@ -72,17 +98,12 @@ Most of what I build starts as a small idea, becomes a messy prototype, and slow
 
 </div>
 
-An interactive automotive web experience for people who love cars, engines and engineering. Instead of reading a flat spec sheet, you explore a selection of performance cars, dig into engine and performance data, and actually **hear** them.
-
-- 🔊&nbsp; Engine sound playback
-- ⚙️&nbsp; Engine & performance specifications
-- 📊&nbsp; Horsepower, torque and vehicle data
-- ✨&nbsp; Animated, responsive interface
+An interactive automotive web experience for car enthusiasts and engineers to explore performance vehicles, inspect mechanical specifications, and hear real engine acoustics.
 
 <div align="center">
 
 <a href="https://github.com/shubhamkerure07/REV-THE-BEAST-">
-  <img src="https://img.shields.io/badge/▶%20OPEN%20PROJECT-0EA5E9?style=for-the-badge&logoColor=white" alt="Open REV-THE-BEAST" />
+  <img src="https://img.shields.io/badge/🚀%20OPEN%20PROJECT-0EA5E9?style=for-the-badge&logoColor=white" alt="Open REV-THE-BEAST" />
 </a>
 
 </div>
@@ -93,37 +114,22 @@ An interactive automotive web experience for people who love cars, engines and e
 
 <br/>
 
-## 🤖 What I Do
+## 🛠️ Focus Areas
 
 <div align="center">
 
-| | Focus | What that looks like |
+| | Domain | Focus & Application |
 |:--:|:--|:--|
-| `01` | **AI & Robotics** | Learning how machines sense, decide and move |
-| `02` | **Software Development** | Web and application projects, end to end |
-| `03` | **Hardware Projects** | Circuits, sensors, actuators, real components |
-| `04` | **Mechatronics** | Where the mechanical, electronic and code sides meet |
-| `05` | **Cars & Gaming** | Engines, performance and interactive experiences |
+| `01` | **AI & Mechatronics** | Autonomous decision making, sensor fusion, diagnostic systems |
+| `02` | **Full-Stack Engineering** | Modern web tools (React, TypeScript, Vite, Python, APIs) |
+| `03` | **Automotive Engineering** | Powertrain mechanics, vehicle dynamics, diagnostic standards |
+| `04` | **Embedded Systems** | Microcontrollers, sensor integration, actuator controls |
 
 </div>
 
 <br/>
 
-## 🏆 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shubhamkerure07&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&row=1" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFFFFF,100:F1F5F9&height=4&width=800" width="80%" />
-
-<br/>
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -140,7 +146,7 @@ An interactive automotive web experience for people who love cars, engines and e
 
 <div align="center">
 
-**Still a student. Still building. Always curious.**
+**Engineering the future with code and hardware.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:7DD3FC,100:38BDF8&height=120&section=footer" width="100%" />
 
