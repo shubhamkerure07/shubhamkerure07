@@ -5,14 +5,14 @@
 
 <!-- Dynamic Animated Typing SVG -->
 <a href="https://portfolio-shubhamkerure07.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=680&lines=Mechatronics+Engineering+Student+@+MITE;Building+Hardware+%2B+Modern+Software+Systems;AI+Automotive+Diagnostics+%26+Powertrain+Telemetry;Explore+My+Interactive+Portfolio+Below+%E2%86%93" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=700&lines=Mechatronics+Engineering+Student+@+MITE;Building+Hardware+%2B+Modern+Software+Systems;Exploring+AI+Diagnostics+%26+Automotive+Acoustics;Check+Out+My+Live+Portfolio+Below+%E2%86%93" alt="Animated Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Featured Live Portfolio Link -->
+<!-- Featured Live Portfolio Link Button -->
 <a href="https://portfolio-shubhamkerure07.vercel.app">
-  <img src="https://img.shields.io/badge/ðŸŒ_LIVE_PORTFOLIO-portfolio--shubhamkerure07.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Live Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-portfolio--shubhamkerure07.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio Website" />
 </a>
 
 <br/><br/>
@@ -21,108 +21,131 @@
 <a href="https://github.com/shubhamkerure07">
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/shubham-kerure-23350938b">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+&nbsp;
 <a href="mailto:shubhamkerure13@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=shubhamkerure07&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile views" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0ea5e9,100:0284c7&height=4&width=900" width="90%" alt="Divider" />
+<img src="assets/divider.gif" width="100%" alt="Animated Neon Divider" />
 
 </div>
 
 <br/>
 
-## ðŸ‘¨â€ðŸ’» About Me
+## 👨‍💻 Aesthetic Code Space // Gen-Z Vibe
 
-<div align="left">
+<div align="center">
 
-- ðŸŽ“ **Mechatronics Engineering Student** @ Mangalore Institute of Technology & Engineering (MITE).
-- ðŸ¤– Exploring **Artificial Intelligence, Machine Learning & Intelligent Robotics**.
-- ðŸŽï¸ Passionate about **Automotive Powertrains, Vehicle Dynamics & Acoustics**.
-- ðŸ› ï¸ Building at the intersection of **Mechanical Design, Embedded C/C++, and Modern Web Applications**.
+<img src="assets/coding_desk.gif" width="480" alt="Aesthetic Coder Desk" />
 
-> *"I combine engineering hardware logic with modern software systems to build functional, real-world tools."*
+<br/><br/>
+
+> *"Writing clean code with good energy — from low-level C memory pointers to modern AI web apps and responsive user interfaces."*
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0ea5e9,100:0284c7&height=4&width=900" width="90%" alt="Divider" />
+  <img src="assets/divider.gif" width="100%" alt="Animated Neon Divider" />
 </div>
 
 <br/>
 
-## ðŸš€ Projects & Systems
+## 🤖 Mechatronics & Hardware Forge
 
-1. **[MechMate â€” AI Automotive Diagnostic Assistant](https://github.com/shubhamkerure07/mechmate)**
-   - **Overview**: Intelligent automotive diagnostic assistant powered by Google Gemini AI for everyday vehicle drivers.
-   - **Capabilities**: Natural language symptom triage, safety severity categorization, and localized â‚¹ INR repair estimations.
-   - **Tech Stack**: React, TypeScript, Vite, Google Gemini API, Tailwind CSS.
-   - **Links**: [Live Web Application](https://mechmate-sigma.vercel.app) â€¢ [GitHub Repository](https://github.com/shubhamkerure07/mechmate)
+<div align="center">
 
-<br/>
+<img src="assets/robot_hammer.gif" width="480" alt="Robot Hammering Desk" />
 
-2. **[REV-THE-BEAST â€” Automotive Acoustics & Telemetry](https://github.com/shubhamkerure07/REV-THE-BEAST-)**
-   - **Overview**: Interactive automotive sensory web platform exploring high-displacement engine acoustics and mechanical telemetry.
-   - **Capabilities**: High-fidelity sound frequency reproduction for V8/V10/Turbo engines and mechanical powertrain specs.
-   - **Tech Stack**: React, TypeScript, Web Audio API, Vite, Tailwind CSS.
-   - **Links**: [GitHub Repository](https://github.com/shubhamkerure07/REV-THE-BEAST-)
+<br/><br/>
 
-<br/>
+> *"When hardware doesn't calibrate on the first try... 🔨🤖"*  
+> **Engineering at the intersection of circuits, sensor fusion, closed-loop PID control, and embedded microcontrollers.**
 
-3. **[Neon Dash â€” Cyberpunk Endless Runner & AI Bot](https://github.com/shubhamkerure07/neon-dash)**
-   - **Overview**: Fast-paced 2D cyberpunk endless runner with procedural canvas physics and an autonomous auto-jump bot.
-   - **Capabilities**: Real-time obstacle detection AI bot, multi-layer parallax cityscape, and zero-asset procedural Web Audio.
-   - **Tech Stack**: Vanilla JavaScript, HTML5 Canvas, Web Audio API, CSS3.
-   - **Links**: [GitHub Repository](https://github.com/shubhamkerure07/neon-dash)
-
-<br/>
-
-4. **[Student Manager â€” Native Android App](https://github.com/shubhamkerure07/student-manager)**
-   - **Overview**: Native Android utility for student academic record keeping, timetable tracking, and GPA calculations.
-   - **Capabilities**: Modern Material 3 user interface, persistent local database for courses and attendance records.
-   - **Tech Stack**: Kotlin, Jetpack Compose, Android SDK, Kotlin Coroutines.
-   - **Links**: [GitHub Repository](https://github.com/shubhamkerure07/student-manager)
-
-<br/>
-
-5. **[MITE Contineo Enhanced â€” Student Portal Redesign](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)**
-   - **Overview**: Modernized, streamlined redesign of the college academic portal eliminating interface friction.
-   - **Capabilities**: Fast mobile-responsive dashboard, rapid schedule and timetable access, and student utility integrations.
-   - **Tech Stack**: TypeScript, React, Modern CSS, REST API.
-   - **Links**: [GitHub Repository](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)
-
-<br/>
-
-6. **[Autonomous Line Following Robot](https://github.com/shubhamkerure07)**
-   - **Overview**: Autonomous differential-drive mechatronic vehicle engineered for closed-loop trajectory tracking.
-   - **Capabilities**: Multi-sensor closed-loop PID control for trajectory tracking and ultrasonic obstacle detection.
-   - **Tech Stack**: Arduino, Embedded C/C++, IR Sensor Array, Ultrasonic Sensors, Motor Drivers.
-   - **Links**: [GitHub Profile](https://github.com/shubhamkerure07)
-
-<br/>
-
-7. **[Data Structures & Systems in C](https://github.com/shubhamkerure07)**
-   - **Overview**: Low-level systems programming in C exploring memory architectures and algorithmic efficiency.
-   - **Capabilities**: Pointer arithmetic, manual heap dynamic memory allocation, custom linked lists, and binary trees.
-   - **Tech Stack**: C, GCC Compiler, Memory Management, Algorithms (DSA).
-   - **Links**: [GitHub Profile](https://github.com/shubhamkerure07)
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0ea5e9,100:0284c7&height=4&width=900" width="90%" alt="Divider" />
+  <img src="assets/divider.gif" width="100%" alt="Animated Neon Divider" />
 </div>
 
 <br/>
 
-## ðŸ› ï¸ Engineering Disciplines & Tech Stack
+## 🚀 Projects & Systems (4-Line Summaries)
+
+### 🔧 1. [MechMate — AI Automotive Diagnostic Assistant](https://github.com/shubhamkerure07/mechmate)
+* **What it does**: Intelligent automotive diagnostic assistant powered by Google Gemini AI to triage vehicle symptoms.
+* **Key Capabilities**: Natural language symptom breakdown, safety hazard classification, and localized ₹ INR repair estimation.
+* **Tech Stack**: React 19, TypeScript, Google Gemini API, Vite, Tailwind CSS.
+* **Links**: [🌐 Live Web App](https://mechmate-sigma.vercel.app) • [💻 GitHub Source](https://github.com/shubhamkerure07/mechmate)
+
+---
+
+### 🔊 2. [REV-THE-BEAST — Automotive Acoustics & Telemetry](https://github.com/shubhamkerure07/REV-THE-BEAST-)
+* **What it does**: Interactive automotive sensory web platform exploring high-displacement engine acoustics and mechanical specs.
+* **Key Capabilities**: Real-time synthesized engine audio (V8, V10, Turbo-4) and mechanical powertrain telemetry inspection.
+* **Tech Stack**: React, TypeScript, Web Audio API, Vite, Tailwind CSS.
+* **Links**: [💻 GitHub Source](https://github.com/shubhamkerure07/REV-THE-BEAST-)
+
+---
+
+### 🏃‍♂️ 3. [Neon Dash — Cyberpunk Endless Runner & AI Bot](https://github.com/shubhamkerure07/neon-dash)
+* **What it does**: Fast-paced 2D cyberpunk endless runner built with procedural canvas physics and an autonomous bot.
+* **Key Capabilities**: Real-time obstacle detection AI bot for hands-free play, parallax neon cityscape, and procedural Web Audio.
+* **Tech Stack**: Vanilla JavaScript, HTML5 Canvas, Web Audio API, CSS3.
+* **Links**: [💻 GitHub Source](https://github.com/shubhamkerure07/neon-dash)
+
+---
+
+### 📱 4. [Student Manager — Native Android App](https://github.com/shubhamkerure07/student-manager)
+* **What it does**: Native Android utility for student academic record keeping, timetable tracking, and GPA calculations.
+* **Key Capabilities**: Declarative Material Design 3 interface with persistent local database storage for courses and attendance.
+* **Tech Stack**: Kotlin, Jetpack Compose, Android SDK, Kotlin Coroutines.
+* **Links**: [💻 GitHub Source](https://github.com/shubhamkerure07/student-manager)
+
+---
+
+### 🎓 5. [MITE Contineo Enhanced — Student Academic Portal](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)
+* **What it does**: Modernized, streamlined redesign of the college academic portal eliminating interface friction.
+* **Key Capabilities**: Intuitive mobile-first student dashboard with rapid timetable access and student academic utilities.
+* **Tech Stack**: TypeScript, React, Modern CSS, REST APIs.
+* **Links**: [💻 GitHub Source](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)
+
+---
+
+### 🤖 6. [Autonomous Line Following Robot](https://github.com/shubhamkerure07)
+* **What it does**: Autonomous differential-drive mechatronic vehicle engineered for closed-loop trajectory tracking.
+* **Key Capabilities**: 5-channel analog IR reflection array, closed-loop PID motor differential control, and ultrasonic obstacle avoidance.
+* **Tech Stack**: Arduino, Embedded C/C++, Sensors, Motor Drivers, Hardware.
+* **Links**: [💻 GitHub Profile](https://github.com/shubhamkerure07)
+
+---
+
+### ⚡ 7. [Data Structures & Systems in C](https://github.com/shubhamkerure07)
+* **What it does**: Low-level systems programming in C exploring memory architectures and algorithmic efficiency.
+* **Key Capabilities**: Pointer arithmetic, manual dynamic heap memory allocation, custom linked lists, and binary search trees.
+* **Tech Stack**: C, GCC Compiler, Memory Management, Algorithms (DSA).
+* **Links**: [💻 GitHub Profile](https://github.com/shubhamkerure07)
+
+<br/>
+
+<div align="center">
+  <img src="assets/divider.gif" width="100%" alt="Animated Neon Divider" />
+</div>
+
+<br/>
+
+## 🛠️ Engineering Disciplines & Tech Stack
 
 <div align="center">
 
@@ -140,12 +163,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0ea5e9,100:0284c7&height=4&width=900" width="90%" alt="Divider" />
+  <img src="assets/divider.gif" width="100%" alt="Animated Neon Divider" />
 </div>
 
 <br/>
 
-## ðŸ“ˆ GitHub Activity & Analytics
+## 📈 GitHub Activity & Analytics
 
 <div align="center">
 
@@ -161,31 +184,31 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0ea5e9,100:0284c7&height=4&width=900" width="90%" alt="Divider" />
+  <img src="assets/divider.gif" width="100%" alt="Animated Neon Divider" />
 </div>
 
 <br/>
 
-## ðŸ™ Thank You!
+## 🙏 Thank You!
 
 <div align="center">
 
-### Thanks for visiting my profile! ðŸš€
-*Whether you're exploring my projects, interested in mechatronics engineering, or want to collaborate on software & hardware systems â€” I'd love to connect!*
+### Thanks for visiting my GitHub profile! 🚀
+*Whether you're exploring my projects, interested in mechatronics engineering, or want to collaborate on software & hardware systems — I'd love to connect!*
 
 <br/>
 
 <a href="mailto:shubhamkerure13@gmail.com">
-  <img src="https://img.shields.io/badge/ðŸ“©_Drop_an_Email-shubhamkerure13@gmail.com-0284c7?style=for-the-badge" alt="Email Shubham" />
+  <img src="https://img.shields.io/badge/📩_Drop_an_Email-shubhamkerure13@gmail.com-0284c7?style=for-the-badge" alt="Email Shubham" />
 </a>
 &nbsp;&nbsp;
 <a href="https://portfolio-shubhamkerure07.vercel.app">
-  <img src="https://img.shields.io/badge/ðŸŒ_Interactive_Portfolio-Live_Site-0EA5E9?style=for-the-badge" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-Live_Site-0EA5E9?style=for-the-badge" alt="Portfolio" />
 </a>
 
 <br/><br/>
 
-**âš¡ Engineering the future with code and hardware.**
+**⚡ Engineering the future with code and hardware.**
 
 <br/>
 
