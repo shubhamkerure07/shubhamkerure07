@@ -27,7 +27,7 @@
 
 <br/><br/>
 
-<!-- Clean Robot Hammer GIF without any title above it -->
+<!-- Clean Robot Hammer GIF -->
 <img src="assets/robot_hammer.gif" width="460" alt="Robot Animation" />
 
 <br/><br/>
@@ -55,10 +55,31 @@
 
 <br/>
 
+## ðŸŒ Live Web Applications (Hosted on Vercel)
+
+<div align="center">
+
+| Application | Live Production URL | Source Code | Key Tech |
+| :--- | :--- | :--- | :--- |
+| ðŸ”§ **MechMate** | [![Live Demo](https://img.shields.io/badge/Launch-mechmate--sigma.vercel.app-00DC82?style=flat-square&logo=vercel&logoColor=white)](https://mechmate-sigma.vercel.app) | [![GitHub](https://img.shields.io/badge/GitHub-mechmate-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/shubhamkerure07/mechmate) | React 19 â€¢ Gemini AI â€¢ Vite |
+| ðŸŽï¸ **REV // THE BEAST** | [![Live Demo](https://img.shields.io/badge/Launch-rev--the--beast.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://rev-the-beast.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-REV--THE--BEAST-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/shubhamkerure07/REV-THE-BEAST-) | React 18 â€¢ Web Audio API â€¢ Vite |
+| ðŸ  **HomeGuard** | [![Live Demo](https://img.shields.io/badge/Launch-homeguard--app.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://homeguard-app.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-HomeGuard-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/shubhamkerure07/HomeGuard) | React â€¢ IoT Sensors â€¢ Gemini AI |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/divider.gif" width="100%" alt="Divider" />
+</div>
+
+<br/>
+
 ## ðŸš€ Projects & Repositories
 
 * **[MechMate](https://github.com/shubhamkerure07/mechmate)** â€” AI automotive diagnostic assistant powered by Google Gemini AI with localized repair triage. â€¢ [Live Demo](https://mechmate-sigma.vercel.app) | [GitHub](https://github.com/shubhamkerure07/mechmate)
-* **[REV-THE-BEAST](https://github.com/shubhamkerure07/REV-THE-BEAST-)** â€” Interactive automotive web platform exploring high-displacement engine acoustics & powertrain specs. â€¢ [GitHub](https://github.com/shubhamkerure07/REV-THE-BEAST-)
+* **[REV-THE-BEAST](https://github.com/shubhamkerure07/REV-THE-BEAST-)** â€” Interactive automotive web platform exploring high-displacement engine acoustics & powertrain specs. â€¢ [Live Demo](https://rev-the-beast.vercel.app/) | [GitHub](https://github.com/shubhamkerure07/REV-THE-BEAST-)
+* **[HomeGuard](https://github.com/shubhamkerure07/HomeGuard)** â€” Modern smart home security & intrusion defense platform with 2D architectural floor plan & AI copilot. â€¢ [Live Demo](https://homeguard-app.vercel.app/) | [GitHub](https://github.com/shubhamkerure07/HomeGuard)
 * **[Neon Dash](https://github.com/shubhamkerure07/neon-dash)** â€” Fast-paced 2D cyberpunk endless runner with procedural canvas physics & autonomous AI bot. â€¢ [GitHub](https://github.com/shubhamkerure07/neon-dash)
 * **[Student Manager](https://github.com/shubhamkerure07/student-manager)** â€” Native Android application for student record management, timetable tracking, and GPA calculations. â€¢ [GitHub](https://github.com/shubhamkerure07/student-manager)
 * **[MITE Contineo Enhanced](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)** â€” Modernized college academic portal redesign eliminating interface friction with fast schedule views. â€¢ [GitHub](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)
