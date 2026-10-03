@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Local Animated SVG Banner (Reliable, never breaks) -->
+<!-- Local Animated SVG Banner -->
 <img src="assets/github_profile_banner.svg" width="100%" alt="Shubham Kerure Banner" />
 
 <br/><br/>
 
 <!-- Featured Live Portfolio Link -->
 <a href="https://portfolio-shubhamkerure07.vercel.app">
-  <img src="https://img.shields.io/badge/ðŸŒ_VISIT_PORTFOLIO-portfolio--shubhamkerure07.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio Website" />
+  <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-Live_Website-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio Website" />
 </a>
 
 <br/><br/>
@@ -27,7 +27,7 @@
 
 <br/><br/>
 
-<!-- Clean Robot Hammer GIF -->
+<!-- Robot Hammer Animation -->
 <img src="assets/robot_hammer.gif" width="460" alt="Robot Animation" />
 
 <br/><br/>
@@ -38,12 +38,12 @@
 
 <br/>
 
-## ðŸ‘¨â€ðŸ’» About Me
+## :technologist: About Me
 
-- ðŸŽ“ **Mechatronics Engineering Student** @ Mangalore Institute of Technology & Engineering (MITE).
-- ðŸ¤– Exploring **Artificial Intelligence, Machine Learning & Intelligent Robotics**.
-- ðŸŽï¸ Passionate about **Automotive Powertrains, Vehicle Dynamics & Acoustics**.
-- ðŸ› ï¸ Building at the intersection of **Mechanical Design, Embedded C/C++, and Modern Web Applications**.
+* :mortar_board: **Mechatronics Engineering Student** @ Mangalore Institute of Technology & Engineering (MITE).
+* :robot: Exploring **Artificial Intelligence, Machine Learning & Intelligent Robotics**.
+* :racing_car: Passionate about **Automotive Powertrains, Vehicle Dynamics & Acoustics**.
+* :hammer_and_wrench: Building at the intersection of **Mechanical Design, Embedded C/C++, and Modern Web Applications**.
 
 > *"I combine engineering hardware logic with modern software systems to build functional, real-world tools."*
 
@@ -55,15 +55,15 @@
 
 <br/>
 
-## ðŸŒ Live Web Applications (Hosted on Vercel)
+## :globe_with_meridians: Live Web Applications (Hosted on Vercel)
 
 <div align="center">
 
 | Application | Live Production URL | Source Code | Key Tech |
 | :--- | :--- | :--- | :--- |
-| ðŸ”§ **MechMate** | [![Live Demo](https://img.shields.io/badge/Launch-mechmate--sigma.vercel.app-00DC82?style=flat-square&logo=vercel&logoColor=white)](https://mechmate-sigma.vercel.app) | [![GitHub](https://img.shields.io/badge/GitHub-mechmate-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/shubhamkerure07/mechmate) | React 19 â€¢ Gemini AI â€¢ Vite |
-| ðŸŽï¸ **REV // THE BEAST** | [![Live Demo](https://img.shields.io/badge/Launch-rev--the--beast.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://rev-the-beast.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-REV--THE--BEAST-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/shubhamkerure07/REV-THE-BEAST-) | React 18 â€¢ Web Audio API â€¢ Vite |
-| ðŸ  **HomeGuard** | [![Live Demo](https://img.shields.io/badge/Launch-homeguard--app.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://homeguard-app.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-HomeGuard-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/shubhamkerure07/HomeGuard) | React â€¢ IoT Sensors â€¢ Gemini AI |
+| :wrench: **MechMate** | [![Live Demo](https://img.shields.io/badge/Launch-mechmate--sigma.vercel.app-00DC82?style=flat-square&logo=vercel&logoColor=white)](https://mechmate-sigma.vercel.app) | [![GitHub](https://img.shields.io/badge/GitHub-mechmate-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/shubhamkerure07/mechmate) | React 19 &bull; Gemini AI &bull; Vite |
+| :racing_car: **REV // THE BEAST** | [![Live Demo](https://img.shields.io/badge/Launch-rev--the--beast.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://rev-the-beast.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-REV--THE--BEAST-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/shubhamkerure07/REV-THE-BEAST-) | React 18 &bull; Web Audio API &bull; Vite |
+| :house: **HomeGuard** | [![Live Demo](https://img.shields.io/badge/Launch-homeguard--app.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://homeguard-app.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-HomeGuard-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/shubhamkerure07/HomeGuard) | React &bull; IoT Sensors &bull; Gemini AI |
 
 </div>
 
@@ -75,15 +75,15 @@
 
 <br/>
 
-## ðŸš€ Projects & Repositories
+## :rocket: Projects & Repositories
 
-* **[MechMate](https://github.com/shubhamkerure07/mechmate)** â€” AI automotive diagnostic assistant powered by Google Gemini AI with localized repair triage. â€¢ [Live Demo](https://mechmate-sigma.vercel.app) | [GitHub](https://github.com/shubhamkerure07/mechmate)
-* **[REV-THE-BEAST](https://github.com/shubhamkerure07/REV-THE-BEAST-)** â€” Interactive automotive web platform exploring high-displacement engine acoustics & powertrain specs. â€¢ [Live Demo](https://rev-the-beast.vercel.app/) | [GitHub](https://github.com/shubhamkerure07/REV-THE-BEAST-)
-* **[HomeGuard](https://github.com/shubhamkerure07/HomeGuard)** â€” Modern smart home security & intrusion defense platform with 2D architectural floor plan & AI copilot. â€¢ [Live Demo](https://homeguard-app.vercel.app/) | [GitHub](https://github.com/shubhamkerure07/HomeGuard)
-* **[Neon Dash](https://github.com/shubhamkerure07/neon-dash)** â€” Fast-paced 2D cyberpunk endless runner with procedural canvas physics & autonomous AI bot. â€¢ [GitHub](https://github.com/shubhamkerure07/neon-dash)
-* **[Student Manager](https://github.com/shubhamkerure07/student-manager)** â€” Native Android application for student record management, timetable tracking, and GPA calculations. â€¢ [GitHub](https://github.com/shubhamkerure07/student-manager)
-* **[MITE Contineo Enhanced](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)** â€” Modernized college academic portal redesign eliminating interface friction with fast schedule views. â€¢ [GitHub](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)
-* **[Data Structures & Systems in C](https://github.com/shubhamkerure07)** â€” Low-level systems programming in C exploring memory management, pointer arithmetic, and trees. â€¢ [GitHub](https://github.com/shubhamkerure07)
+* **[MechMate](https://github.com/shubhamkerure07/mechmate)** — AI automotive diagnostic assistant powered by Google Gemini AI with localized repair triage. • [Live Demo](https://mechmate-sigma.vercel.app) | [GitHub](https://github.com/shubhamkerure07/mechmate)
+* **[REV-THE-BEAST](https://github.com/shubhamkerure07/REV-THE-BEAST-)** — Interactive automotive web platform exploring high-displacement engine acoustics & powertrain specs. • [Live Demo](https://rev-the-beast.vercel.app/) | [GitHub](https://github.com/shubhamkerure07/REV-THE-BEAST-)
+* **[HomeGuard](https://github.com/shubhamkerure07/HomeGuard)** — Modern smart home security & intrusion defense platform with 2D architectural floor plan & AI copilot. • [Live Demo](https://homeguard-app.vercel.app/) | [GitHub](https://github.com/shubhamkerure07/HomeGuard)
+* **[Neon Dash](https://github.com/shubhamkerure07/neon-dash)** — Fast-paced 2D cyberpunk endless runner with procedural canvas physics & autonomous AI bot. • [GitHub](https://github.com/shubhamkerure07/neon-dash)
+* **[Student Manager](https://github.com/shubhamkerure07/student-manager)** — Native Android application for student record management, timetable tracking, and GPA calculations. • [GitHub](https://github.com/shubhamkerure07/student-manager)
+* **[MITE Contineo Enhanced](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)** — Modernized college academic portal redesign eliminating interface friction with fast schedule views. • [GitHub](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)
+* **[Data Structures & Systems in C](https://github.com/shubhamkerure07)** — Low-level systems programming in C exploring memory management, pointer arithmetic, and trees. • [GitHub](https://github.com/shubhamkerure07)
 
 <br/>
 
@@ -93,7 +93,7 @@
 
 <br/>
 
-## ðŸ› ï¸ Engineering Disciplines & Tech Stack
+## :tools: Engineering Disciplines & Tech Stack
 
 <div align="center">
 
@@ -118,6 +118,6 @@
 
 <div align="center">
 
-**âš¡ Engineering the future with code and hardware.**
+**:zap: Engineering the future with code and hardware.**
 
 </div>
