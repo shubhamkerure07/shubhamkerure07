@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 250" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e17" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#070a12" />
+    </linearGradient>
+
+    <!-- Neon Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#818cf8;#c084fc;#f43f5e;#38bdf8" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#c084fc">
+        <animate attributeName="stop-color" values="#c084fc;#f43f5e;#38bdf8;#818cf8;#c084fc" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#818cf8;#c084fc;#f43f5e;#38bdf8" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Shimmer Gradient -->
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0)" />
+      <stop offset="50%" stop-color="rgba(255,255,255,0.08)" />
+      <stop offset="100%" stop-color="rgba(255,255,255,0)" />
+      <animate attributeName="x1" values="-100%;200%" dur="3.5s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="0%;300%" dur="3.5s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="subtleGlow">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font-weight: 800;
+      font-size: 32px;
+      fill: #ffffff;
+      letter-spacing: -0.5px;
+    }
+    .greeting {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 14px;
+      font-weight: 600;
+      fill: #38bdf8;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+    }
+    .subtitle {
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 17px;
+      fill: #94a3b8;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      fill: #e2e8f0;
+    }
+    .cursor {
+      animation: blink 1s infinite;
+      fill: #38bdf8;
+    }
+    .pulse-dot {
+      animation: pulse 2s ease-in-out infinite;
+    }
+    .floating-star {
+      animation: float 4s ease-in-out infinite alternate;
+    }
+
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 0.9; }
+      50% { transform: scale(1.3); opacity: 0.4; }
+    }
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      100% { transform: translateY(-8px); }
+    }
+
+    /* Dynamic typing loop simulation across 3 roles */
+    @keyframes typeRole {
+      0%, 28%   { opacity: 1; }
+      33%, 100% { opacity: 0; }
+    }
+    @keyframes typeRole2 {
+      0%, 33%   { opacity: 0; }
+      38%, 61%  { opacity: 1; }
+      66%, 100% { opacity: 0; }
+    }
+    @keyframes typeRole3 {
+      0%, 66%   { opacity: 0; }
+      71%, 95%  { opacity: 1; }
+      100%      { opacity: 0; }
+    }
+
+    .role-1 { animation: typeRole 9s infinite; }
+    .role-2 { animation: typeRole2 9s infinite; }
+    .role-3 { animation: typeRole3 9s infinite; }
+  </style>
+
+  <!-- Base Card Background -->
+  <rect x="6" y="6" width="838" height="238" rx="16" fill="url(#bgGradient)" />
+
+  <!-- Animated Glowing Border -->
+  <rect x="6" y="6" width="838" height="238" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="2" />
+
+  <!-- Ambient Light Orbs -->
+  <circle cx="120" cy="50" r="80" fill="#38bdf8" opacity="0.08" filter="url(#neonGlow)">
+    <animate attributeName="cx" values="100;150;100" dur="8s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="750" cy="180" r="100" fill="#c084fc" opacity="0.08" filter="url(#neonGlow)">
+    <animate attributeName="cy" values="180;130;180" dur="7s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Shimmer Overlay Pass -->
+  <rect x="6" y="6" width="838" height="238" rx="16" fill="url(#shimmer)" />
+
+  <!-- Grid Accents (Subtle Developer Aesthetic) -->
+  <g opacity="0.12" stroke="#64748b" stroke-width="1">
+    <line x1="600" y1="20" x2="800" y2="20" />
+    <line x1="600" y1="50" x2="820" y2="50" />
+    <line x1="600" y1="80" x2="790" y2="80" />
+    <line x1="650" y1="10" x2="650" y2="100" />
+    <line x1="720" y1="10" x2="720" y2="100" />
+  </g>
+
+  <!-- Window Dots / Mac Style Header -->
+  <g transform="translate(36, 32)">
+    <circle cx="0" cy="0" r="5.5" fill="#ef4444" />
+    <circle cx="18" cy="0" r="5.5" fill="#f59e0b" />
+    <circle cx="36" cy="0" r="5.5" fill="#10b981" />
+  </g>
+
+  <!-- Greeting Prompt Line -->
+  <g transform="translate(36, 75)">
+    <text class="greeting" x="0" y="0">&gt; INITIALIZING PROFILE_</text>
+  </g>
+
+  <!-- Main Headline -->
+  <g transform="translate(36, 115)">
+    <text class="title" x="0" y="0">
+      Hi, I'm <tspan fill="url(#borderGrad)">Shubham</tspan> 👋
+    </text>
+  </g>
+
+  <!-- Rotating Role / Animated Subtitle -->
+  <g transform="translate(36, 152)">
+    <text class="subtitle" x="0" y="0">
+      <tspan fill="#38bdf8">&gt; </tspan>
+      <tspan class="role-1" fill="#f1f5f9">Software Engineer &amp; Builder</tspan>
+      <tspan class="role-2" fill="#f1f5f9" dx="-250">Problem Solver &amp; Creator</tspan>
+      <tspan class="role-3" fill="#f1f5f9" dx="-220">Open-Source Enthusiast</tspan>
+      <tspan class="cursor">|</tspan>
+    </text>
+  </g>
+
+  <!-- Tech Badges / Skills Pills -->
+  <g transform="translate(36, 185)">
+    <!-- Pill 1 -->
+    <rect x="0" y="0" width="60" height="26" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text class="badge-text" x="30" y="17" text-anchor="middle" fill="#60a5fa">C / C++</text>
+
+    <!-- Pill 2 -->
+    <rect x="68" y="0" width="70" height="26" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text class="badge-text" x="103" y="17" text-anchor="middle" fill="#fbbf24">Python</text>
+
+    <!-- Pill 3 -->
+    <rect x="146" y="0" width="90" height="26" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text class="badge-text" x="191" y="17" text-anchor="middle" fill="#34d399">Algorithms</text>
+
+    <!-- Pill 4 -->
+    <rect x="244" y="0" width="90" height="26" rx="6" fill="#1e293b" stroke="#334155" stroke-width="1" />
+    <text class="badge-text" x="289" y="17" text-anchor="middle" fill="#a78bfa">Full Stack</text>
+  </g>
+
+  <!-- Status Indicator (Bottom Right) -->
+  <g transform="translate(620, 195)">
+    <!-- Pulse Effect -->
+    <circle cx="0" cy="0" r="6" fill="#10b981" opacity="0.4" class="pulse-dot" />
+    <circle cx="0" cy="0" r="4" fill="#10b981" />
+    <text font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif" font-size="12" font-weight="500" fill="#94a3b8" x="12" y="4">
+      Open to collaborate
+    </text>
+  </g>
+
+  <!-- Decorative Floating Sparkles / Constellation -->
+  <g transform="translate(740, 70)" class="floating-star">
+    <polygon points="0,-12 3,-3 12,0 3,3 0,12 -3,3 -12,0 -3,-3" fill="#38bdf8" opacity="0.75" filter="url(#subtleGlow)">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite" />
+    </polygon>
+  </g>
+  <g transform="translate(680, 110)">
+    <polygon points="0,-7 2,-2 7,0 2,2 0,7 -2,2 -7,0 -2,-2" fill="#c084fc" opacity="0.6">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="8s" repeatCount="indefinite" />
+    </polygon>
+  </g>
+</svg>
