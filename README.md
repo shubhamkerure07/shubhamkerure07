@@ -7,7 +7,7 @@
 
 <!-- Featured Live Portfolio Link -->
 <a href="https://portfolio-shubhamkerure07.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-portfolio--shubhamkerure07.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio Website" />
+  <img src="https://img.shields.io/badge/ðŸŒ_VISIT_PORTFOLIO-portfolio--shubhamkerure07.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio Website" />
 </a>
 
 <br/><br/>
@@ -38,12 +38,12 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## ðŸ‘¨â€ðŸ’» About Me
 
-- 🎓 **Mechatronics Engineering Student** @ Mangalore Institute of Technology & Engineering (MITE).
-- 🤖 Exploring **Artificial Intelligence, Machine Learning & Intelligent Robotics**.
-- 🏎️ Passionate about **Automotive Powertrains, Vehicle Dynamics & Acoustics**.
-- 🛠️ Building at the intersection of **Mechanical Design, Embedded C/C++, and Modern Web Applications**.
+- ðŸŽ“ **Mechatronics Engineering Student** @ Mangalore Institute of Technology & Engineering (MITE).
+- ðŸ¤– Exploring **Artificial Intelligence, Machine Learning & Intelligent Robotics**.
+- ðŸŽï¸ Passionate about **Automotive Powertrains, Vehicle Dynamics & Acoustics**.
+- ðŸ› ï¸ Building at the intersection of **Mechanical Design, Embedded C/C++, and Modern Web Applications**.
 
 > *"I combine engineering hardware logic with modern software systems to build functional, real-world tools."*
 
@@ -55,15 +55,14 @@
 
 <br/>
 
-## 🚀 Projects & Repositories
+## ðŸš€ Projects & Repositories
 
-* **[MechMate](https://github.com/shubhamkerure07/mechmate)** — AI automotive diagnostic assistant powered by Google Gemini AI with localized repair triage. • [Live Demo](https://mechmate-sigma.vercel.app) | [GitHub](https://github.com/shubhamkerure07/mechmate)
-* **[REV-THE-BEAST](https://github.com/shubhamkerure07/REV-THE-BEAST-)** — Interactive automotive web platform exploring high-displacement engine acoustics & powertrain specs. • [GitHub](https://github.com/shubhamkerure07/REV-THE-BEAST-)
-* **[Neon Dash](https://github.com/shubhamkerure07/neon-dash)** — Fast-paced 2D cyberpunk endless runner with procedural canvas physics & autonomous AI bot. • [GitHub](https://github.com/shubhamkerure07/neon-dash)
-* **[Student Manager](https://github.com/shubhamkerure07/student-manager)** — Native Android application for student record management, timetable tracking, and GPA calculations. • [GitHub](https://github.com/shubhamkerure07/student-manager)
-* **[MITE Contineo Enhanced](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)** — Modernized college academic portal redesign eliminating interface friction with fast schedule views. • [GitHub](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)
-* **[Autonomous Line Following Robot](https://github.com/shubhamkerure07)** — Differential-drive mechatronic robot with 5-channel IR array & closed-loop PID trajectory control. • [GitHub](https://github.com/shubhamkerure07)
-* **[Data Structures & Systems in C](https://github.com/shubhamkerure07)** — Low-level systems programming in C exploring memory management, pointer arithmetic, and trees. • [GitHub](https://github.com/shubhamkerure07)
+* **[MechMate](https://github.com/shubhamkerure07/mechmate)** â€” AI automotive diagnostic assistant powered by Google Gemini AI with localized repair triage. â€¢ [Live Demo](https://mechmate-sigma.vercel.app) | [GitHub](https://github.com/shubhamkerure07/mechmate)
+* **[REV-THE-BEAST](https://github.com/shubhamkerure07/REV-THE-BEAST-)** â€” Interactive automotive web platform exploring high-displacement engine acoustics & powertrain specs. â€¢ [GitHub](https://github.com/shubhamkerure07/REV-THE-BEAST-)
+* **[Neon Dash](https://github.com/shubhamkerure07/neon-dash)** â€” Fast-paced 2D cyberpunk endless runner with procedural canvas physics & autonomous AI bot. â€¢ [GitHub](https://github.com/shubhamkerure07/neon-dash)
+* **[Student Manager](https://github.com/shubhamkerure07/student-manager)** â€” Native Android application for student record management, timetable tracking, and GPA calculations. â€¢ [GitHub](https://github.com/shubhamkerure07/student-manager)
+* **[MITE Contineo Enhanced](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)** â€” Modernized college academic portal redesign eliminating interface friction with fast schedule views. â€¢ [GitHub](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)
+* **[Data Structures & Systems in C](https://github.com/shubhamkerure07)** â€” Low-level systems programming in C exploring memory management, pointer arithmetic, and trees. â€¢ [GitHub](https://github.com/shubhamkerure07)
 
 <br/>
 
@@ -73,7 +72,7 @@
 
 <br/>
 
-## 🛠️ Engineering Disciplines & Tech Stack
+## ðŸ› ï¸ Engineering Disciplines & Tech Stack
 
 <div align="center">
 
@@ -96,25 +95,8 @@
 
 <br/>
 
-## 🙏 Thank You!
-
 <div align="center">
 
-### Thanks for visiting my GitHub profile! 🚀
-*Whether you're exploring my projects, interested in mechatronics engineering, or want to collaborate on software & hardware systems — I'd love to connect!*
-
-<br/>
-
-<a href="mailto:shubhamkerure13@gmail.com">
-  <img src="https://img.shields.io/badge/📩_Drop_an_Email-shubhamkerure13@gmail.com-0284c7?style=for-the-badge" alt="Email Shubham" />
-</a>
-&nbsp;&nbsp;
-<a href="https://portfolio-shubhamkerure07.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-Live_Site-0EA5E9?style=for-the-badge" alt="Portfolio" />
-</a>
-
-<br/><br/>
-
-**⚡ Engineering the future with code and hardware.**
+**âš¡ Engineering the future with code and hardware.**
 
 </div>
