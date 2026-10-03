@@ -116,7 +116,25 @@
 
 <br/>
 
+## :sparkles: Thank You!
+
 <div align="center">
+
+### Thanks for visiting my GitHub profile! :rocket:
+
+*Whether you're exploring my projects, interested in mechatronics engineering, or want to collaborate on software & hardware systems — I'd love to connect!*
+
+<br/>
+
+<a href="mailto:shubhamkerure13@gmail.com">
+  <img src="https://img.shields.io/badge/Drop_an_Email-shubhamkerure13@gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shubham" />
+</a>
+&nbsp;&nbsp;
+<a href="https://portfolio-lac-two-76.vercel.app/">
+  <img src="https://img.shields.io/badge/Visit_Portfolio-Live_Website-00DC82?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+<br/><br/>
 
 **:zap: Engineering the future with code and hardware.**
 
