@@ -6,8 +6,8 @@
 <br/><br/>
 
 <!-- Featured Live Portfolio Link -->
-<a href="https://portfolio-shubhamkerure07.vercel.app">
-  <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-Live_Website-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio Website" />
+<a href="https://portfolio-lac-two-76.vercel.app/">
+  <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-portfolio--lac--two--76.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio Website" />
 </a>
 
 <br/><br/>
