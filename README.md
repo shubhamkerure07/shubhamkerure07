@@ -80,10 +80,11 @@
 * **[MechMate](https://github.com/shubhamkerure07/mechmate)** — AI automotive diagnostic assistant powered by Google Gemini AI with localized repair triage. • [Live Demo](https://mechmate-sigma.vercel.app) | [GitHub](https://github.com/shubhamkerure07/mechmate)
 * **[REV-THE-BEAST](https://github.com/shubhamkerure07/REV-THE-BEAST-)** — Interactive automotive web platform exploring high-displacement engine acoustics & powertrain specs. • [Live Demo](https://rev-the-beast.vercel.app/) | [GitHub](https://github.com/shubhamkerure07/REV-THE-BEAST-)
 * **[HomeGuard](https://github.com/shubhamkerure07/HomeGuard)** — Modern smart home security & intrusion defense platform with 2D architectural floor plan & AI copilot. • [Live Demo](https://homeguard-app.vercel.app/) | [GitHub](https://github.com/shubhamkerure07/HomeGuard)
+* **[Engineering Portfolio](https://github.com/shubhamkerure07/portfolio)** — Personal engineering & mechatronics portfolio with interactive Web Audio tactile dynamics. • [Live App](https://portfolio-lac-two-76.vercel.app/) | [GitHub](https://github.com/shubhamkerure07/portfolio)
 * **[Neon Dash](https://github.com/shubhamkerure07/neon-dash)** — Fast-paced 2D cyberpunk endless runner with procedural canvas physics & autonomous AI bot. • [GitHub](https://github.com/shubhamkerure07/neon-dash)
-* **[Student Manager](https://github.com/shubhamkerure07/student-manager)** — Native Android application for student record management, timetable tracking, and GPA calculations. • [GitHub](https://github.com/shubhamkerure07/student-manager)
-* **[MITE Contineo Enhanced](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)** — Modernized college academic portal redesign eliminating interface friction with fast schedule views. • [GitHub](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)
-* **[Data Structures & Systems in C](https://github.com/shubhamkerure07)** — Low-level systems programming in C exploring memory management, pointer arithmetic, and trees. • [GitHub](https://github.com/shubhamkerure07)
+* **[EduClass (Edu Made Easy)](https://github.com/shubhamkerure07/edu-made-easy)** — Native Android online tuition & classroom platform with live sessions, quizzes, and 1-on-1 mentorship. • [GitHub](https://github.com/shubhamkerure07/edu-made-easy)
+* **[StudentHub](https://github.com/shubhamkerure07/student-manager)** — Native Android academic planner with auto-alarms, attendance tracking, and Canvas spending graphs. • [GitHub](https://github.com/shubhamkerure07/student-manager)
+* **[MITE Contineo Enhanced](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)** — Modernized college academic portal redesign with attendance margin calculators & Gemini AI. • [GitHub](https://github.com/shubhamkerure07/mite-contineo-webs-enhanced-version)
 
 <br/>
 
