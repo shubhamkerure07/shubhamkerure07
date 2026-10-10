@@ -61,6 +61,7 @@
 
 | Application | Live Production URL | Source Code | Key Tech |
 | :--- | :--- | :--- | :--- |
+| :ocean: **THALSA** | [![Live Demo](https://img.shields.io/badge/Launch-thalsa.vercel.app-D5FF72?style=flat-square&logo=vercel&logoColor=black)](https://thalsa.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-thalsa-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/shubhamkerure07/thalsa) | Node.js &bull; Express &bull; KaTeX &bull; Open APIs |
 | :wrench: **MechMate** | [![Live Demo](https://img.shields.io/badge/Launch-mechmate--sigma.vercel.app-00DC82?style=flat-square&logo=vercel&logoColor=white)](https://mechmate-sigma.vercel.app) | [![GitHub](https://img.shields.io/badge/GitHub-mechmate-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/shubhamkerure07/mechmate) | React 19 &bull; Gemini AI &bull; Vite |
 | :racing_car: **REV // THE BEAST** | [![Live Demo](https://img.shields.io/badge/Launch-rev--the--beast.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://rev-the-beast.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-REV--THE--BEAST-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/shubhamkerure07/REV-THE-BEAST-) | React 18 &bull; Web Audio API &bull; Vite |
 | :house: **HomeGuard** | [![Live Demo](https://img.shields.io/badge/Launch-homeguard--app.vercel.app-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://homeguard-app.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-HomeGuard-0EA5E9?style=flat-square&logo=github&logoColor=white)](https://github.com/shubhamkerure07/HomeGuard) | React &bull; IoT Sensors &bull; Gemini AI |
@@ -77,6 +78,7 @@
 
 ## :rocket: Projects & Repositories
 
+* **[THALSA](https://github.com/shubhamkerure07/thalsa)** — Student knowledge platform & ocean answer engine with calibrated 2–10 marks depth, LaTeX formulas & real-time telemetry. • [Live Demo](https://thalsa.vercel.app/) | [GitHub](https://github.com/shubhamkerure07/thalsa)
 * **[MechMate](https://github.com/shubhamkerure07/mechmate)** — AI automotive diagnostic assistant powered by Google Gemini AI with localized repair triage. • [Live Demo](https://mechmate-sigma.vercel.app) | [GitHub](https://github.com/shubhamkerure07/mechmate)
 * **[REV-THE-BEAST](https://github.com/shubhamkerure07/REV-THE-BEAST-)** — Interactive automotive web platform exploring high-displacement engine acoustics & powertrain specs. • [Live Demo](https://rev-the-beast.vercel.app/) | [GitHub](https://github.com/shubhamkerure07/REV-THE-BEAST-)
 * **[HomeGuard](https://github.com/shubhamkerure07/HomeGuard)** — Modern smart home security & intrusion defense platform with 2D architectural floor plan & AI copilot. • [Live Demo](https://homeguard-app.vercel.app/) | [GitHub](https://github.com/shubhamkerure07/HomeGuard)
