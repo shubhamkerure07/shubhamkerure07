@@ -168,8 +168,8 @@
   <g transform="translate(36, 152)">
     <text class="subtitle" x="0" y="0">
       <tspan fill="#38bdf8">&gt; </tspan>
-      <tspan class="role-1" fill="#f1f5f9">Software Engineer &amp; Builder</tspan>
-      <tspan class="role-2" fill="#f1f5f9" dx="-250">Problem Solver &amp; Creator</tspan>
+      <tspan class="role-1" fill="#f1f5f9">Mechatronics Engineer &amp; Builder</tspan>
+      <tspan class="role-2" fill="#f1f5f9" dx="-285">Problem Solver &amp; Creator</tspan>
       <tspan class="role-3" fill="#f1f5f9" dx="-220">Open-Source Enthusiast</tspan>
       <tspan class="cursor">|</tspan>
     </text>
