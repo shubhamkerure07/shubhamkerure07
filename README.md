@@ -39,19 +39,6 @@
 <!-- Animated Divider -->
 <img src="assets/divider.gif" width="100%" alt="Divider" />
 
-<!-- Quick Navigation Pill Bar -->
-<p align="center">
-  <b><a href="#-about-me">👨‍💻 ABOUT</a></b> &bull;
-  <b><a href="#-the-get-shit-done-gsd-philosophy">⚡ GSD ETHOS</a></b> &bull;
-  <b><a href="#-engineering-graph--work-distribution">📊 WORK GRAPH</a></b> &bull;
-  <b><a href="#-live-production-systems">🚀 LIVE APPS</a></b> &bull;
-  <b><a href="#-featured-engineering-projects">🏆 PROJECTS</a></b> &bull;
-  <b><a href="#-engineering-disciplines--tech-stack">🛠️ TECH STACK</a></b> &bull;
-  <b><a href="#-lets-connect">📬 CONNECT</a></b>
-</p>
-
-<img src="assets/divider.gif" width="100%" alt="Divider" />
-
 </div>
 
 <br/>
@@ -74,78 +61,11 @@
 
 <br/>
 
-## ⚡ The "Get Shit Done" (GSD) Philosophy
-
-I approach every project with an uncompromising **bias for action** and **engineering discipline**:
-
-```
-🎯 SPEC & ARCHITECT      🔨 BUILD & VERIFY        🚀 SHIP TO PROD
-   Clear scope & specs       Valgrind 0 leaks         Vercel 99.9% uptime
-   No bloated fluff          Math-sound algorithms    Instant user value
-```
-
-* 📐 **Spec-First, Code-Fast:** Defining architectural constraints and mathematical bounds before touching a line of code.
-* 🛡️ **Zero-Leak Memory & Mathematical Rigor:** Bare-metal C with leak-free allocations, deterministic state, and verified physics constants.
-* 🚢 **Bias for Deployed Software:** Software is only real when users can interact with it live on production.
-
-<br/>
-
-<div align="center">
-  <img src="assets/divider.gif" width="100%" alt="Divider" />
-</div>
-
-<br/>
-
 ## 📊 Engineering Graph & Work Distribution
 
-### 🎨 Work Distribution & Engineering Focus Matrix
 <div align="center">
   <img src="assets/work_graph.svg" width="100%" alt="Shubham's Engineering Work Graph" />
 </div>
-
-<br/>
-
-### 📐 The Architecture of My Work (GSD Pipeline & Verticals)
-
-```mermaid
-flowchart TD
-    subgraph GSD["⚡ THE GET SHIT DONE (GSD) PIPELINE"]
-        direction TB
-        Idea["💡 Spec & Requirements Analysis<br/><i>Define Scope • Eliminate Ambiguity</i>"]
-        Arc["📐 Architectural Blueprint<br/><i>Memory Safety • Mathematical Models</i>"]
-        Build["🔨 High-Velocity Execution<br/><i>Clean Code • Valgrind Zero-Leak Rigor</i>"]
-        Deploy["🚀 Production Deployment<br/><i>Vercel Live CI/CD • Verified Telemetry</i>"]
-        Idea --> Arc --> Build --> Deploy
-    end
-
-    subgraph Verticals["🛠️ CORE ENGINEERING VERTICALS"]
-        direction LR
-        Mech["🤖 Mechatronics & Hardware<br/><i>Sensors • Actuators • PID • SPICE</i>"]
-        Systems["⚡ Low-Level Systems & C<br/><i>Memory Pointers • Bare-Metal DSA</i>"]
-        Web["🌐 Full-Stack Web & UI<br/><i>React • TypeScript • Tailwind • Vite</i>"]
-        AI["🧠 AI & Simulation<br/><i>Gemini API • Orbital Astrodynamics</i>"]
-    end
-
-    subgraph Ships["📦 LIVE SHIPPED PRODUCTION SYSTEMS"]
-        direction TB
-        Thalsa["🌊 THALSA — Ocean Knowledge Engine"]
-        MechMate["🔧 MechMate — AI Automotive Copilot"]
-        RevBeast["🏎️ REV // THE BEAST — Powertrain Acoustics"]
-        HomeGuard["🏠 HomeGuard — IoT Smart Home Security"]
-        Orbital["🌌 Orbital — Space Astrodynamics Lab"]
-        Portfolio["💼 Tactile Engineering Portfolio"]
-    end
-
-    Deploy --> Verticals
-    Verticals --> Ships
-
-    classDef gsdStyle fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#f8fafc;
-    classDef domainStyle fill:#1e1e2e,stroke:#c084fc,stroke-width:2px,color:#f8fafc;
-    classDef shipStyle fill:#111827,stroke:#34d399,stroke-width:2px,color:#f8fafc;
-    class GSD,Idea,Arc,Build,Deploy gsdStyle;
-    class Verticals,Mech,Systems,Web,AI domainStyle;
-    class Ships,Thalsa,MechMate,RevBeast,HomeGuard,Orbital,Portfolio shipStyle;
-```
 
 <br/>
 
@@ -203,11 +123,6 @@ All applications below are live in production, fully responsive, and available f
 <br/>
 
 ## 🏆 Featured Engineering Projects
-
-### ⚡ [Low-Level Systems Programming & Data Structures in C](https://github.com/shubhamkerure07)
-* Bare-metal implementation of core data structures (dynamic arrays, hash tables, linked lists, binary trees) in ISO C99.
-* Rigorous pointer arithmetic and memory management validated with **Valgrind** to guarantee 0 memory leaks and 0 buffer overflows.
-* Circuit and electronics modeling via SPICE netlists (`Exp1/Exp2` rectifier & transistor characteristic curves).
 
 ### 🌊 [THALSA — Ocean Knowledge & Exam Telemetry Engine](https://github.com/shubhamkerure07/thalsa)
 * Full-stack student learning platform featuring an ocean-depth answer engine calibrated for 2–10 mark technical questions.
